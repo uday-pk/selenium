@@ -24,6 +24,7 @@ public static void main(String[] args) {
 			System.out.print(a[i][j]);
 		}
 		System.out.println();
+		System.out.println("first edit");
 	}
 	
 	
